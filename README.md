@@ -1,6 +1,9 @@
 
 ## Git och Github handson introduktion
 
+### Instruktionsfilm
+https://kau.box.com/s/nj841t2mnqba3eqx6d7rajk0uj93roel
+
 ### Agenda
 #### Introduktion till SCM, DSCM och git
 * Vad git är och vilka problem det löser/use cases
