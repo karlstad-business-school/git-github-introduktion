@@ -27,7 +27,7 @@ illidium-q35:tmp benc$ git clone https://github.com/bennchri/git-training.git
 
 
 ```
-2.2) Skapa en fil som heter ovning2.txt och lägg in den i repot. Avsluta editorn/stäng filen i editorn när du är klar ska det se ut så här ungefär:
+2.3) Skapa en fil som heter ovning2.txt och lägg in den i repot. Avsluta editorn/stäng filen i editorn när du är klar ska det se ut så här ungefär:
 ```
 illidium-q35:git-training benc$ tree
 .
@@ -50,7 +50,7 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-2.3) Stagea övning2.txt
+2.4) Stagea övning2.txt
 ```
 illidium-q35:git-training benc$ git status
 On branch master
@@ -64,7 +64,7 @@ Changes to be committed:
  ```
 Vad är statusen i ditt repo?
 
-2.4) Commita övning2.txt till ditt repo
+2.5) Commita övning2.txt till ditt repo
 ```
 illidium-q35:git-training benc$ git commit -m "ovning2 added"
 [master (root-commit) 46a9561] ovning2 added
@@ -75,12 +75,24 @@ Vad är statusen i ditt repo?
 
 ---
 
-2.5) Skapa en .gitignore fil med innehållet '*.eee' på första raden. Spara filen i ditt repo och committa den
+2.6) Skapa en .gitignore fil med innehållet '*.eee' på första raden. Spara filen i ditt repo och committa den
 
-2.6) Skapa en ny fil i ditt repo med namnet minfil.eee 
+2.7) Skapa en ny fil i ditt repo med namnet minfil.eee 
 
-2.7) Vad är statusen i ditt repo? Varför?
+2.8) Vad är statusen i ditt repo? Varför?
 
+2.9) Skapa ett helt lokalt repo som inte har en motsvarande remote på github.
+```
+
+illidium-q35:git benc$ cd ~/git/tmp/
+
+illidium-q35:tmp benc$ mkdir gitlocal-training
+
+illidium-q35:tmp benc$ cd gitlocal-training/
+
+illidium-q35:gitlocal-training benc$ git init
+Initialized empty Git repository in /Users/benc/git/tmp/teacher-training/.git/
+```
 
 **Övning 3**
 Traversera tidslinjen i git repot
