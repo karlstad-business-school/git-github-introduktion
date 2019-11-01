@@ -3,7 +3,7 @@
 
 ### Instruktionsfilm
 https://kau.box.com/s/nj841t2mnqba3eqx6d7rajk0uj93roel
-
+```
 Tidskoder:
 0:00:00 inledning/agenda
 0:02:50 Introduktion till SCM och git
@@ -16,7 +16,7 @@ Tidskoder:
 1:06:38 Vanliga misstag och hur du återställer + övning 4
 1:13:00 Arbeta med remote och lokal kopia av repo + övning 5
 1:29:20 Arbeta med readme och markdown + wiki + övning 6
-
+```
 
 
 
