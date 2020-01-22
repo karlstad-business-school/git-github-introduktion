@@ -2,6 +2,7 @@
 ## Git och Github handson introduktion
 
 ### Instruktionsfilm
+https://kauplay.kau.se/media/t/0_iwaown0l (Kau Play)
 https://kau.box.com/s/nj841t2mnqba3eqx6d7rajk0uj93roel
 ```
 Tidskoder:
